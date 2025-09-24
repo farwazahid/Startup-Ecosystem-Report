@@ -4,7 +4,7 @@ Documentation and research outputs for the Startup Ecosystem Report (PSER) 2024,
 
 # Pakistan Startup Ecosystem Report (PSER) 2024
 
-**Role**: Data Analyst & Project Manager | **Organization**: Invest2Innovate (i2i)  
+**Role**: Data Visualization & Data Analysis | **Organization**: Invest2Innovate (i2i)  
 **Timeline**: March 2024 – December 2024 | **Stage**: Research → Analysis → Publication  
 
 ---
