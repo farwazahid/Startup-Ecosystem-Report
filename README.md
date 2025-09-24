@@ -11,7 +11,7 @@ Documentation and research outputs for the Startup Ecosystem Report (PSER) 2024,
 
 ## 🧠 Abstract  
 
-The Pakistan Startup Ecosystem Report (PSER) 2024 was developed to provide evidence-based insights into Pakistan’s entrepreneurial landscape. The project combined **survey data (140+ respondents)**, **in-depth interviews (67+ participants)**, and secondary research to assess the state of startups, investors, and entrepreneurial support organizations (ESOs).  
+The Startup Ecosystem Report (PSER) 2024 was developed to provide evidence-based insights into the entrepreneurial landscape. The project combined **survey data (140+ respondents)**, **in-depth interviews (67+ participants)**, and secondary research to assess the state of startups, investors, and entrepreneurial support organizations (ESOs).  
 
 This report is published **every two years** and is considered a **flagship research product** of Pakistan’s startup ecosystem. It is **widely referenced nationally and internationally** by policymakers, investors, researchers, and ecosystem builders. Stakeholders across the region look forward to each edition as a reliable evidence-based reference.  
 
@@ -19,9 +19,9 @@ This report is published **every two years** and is considered a **flagship rese
 
 ## 🚨 Research Problem  
 
-Pakistan’s startup ecosystem is expanding but faces challenges in funding access, policy coordination, and ecosystem support. Reliable data sources are limited, leaving policymakers and investors with little evidence-based guidance.  
+The startup ecosystem is expanding but faces challenges in funding access, policy coordination, and ecosystem support. Reliable data sources are limited, leaving policymakers and investors with little evidence-based guidance.  
 
-**Research Question**: How can primary and secondary data be combined to provide a comprehensive picture of the Pakistani startup ecosystem in 2024?  
+**Research Question**: How can primary and secondary data be combined to provide a comprehensive picture of the startup ecosystem in 2024?  
 
 ---
 
