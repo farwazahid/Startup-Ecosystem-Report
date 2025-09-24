@@ -40,7 +40,7 @@ The startup ecosystem is expanding but faces challenges in funding access, polic
 - **Surveys**: Designed and distributed digitally; collected 140+ complete responses.  
 - **Interviews**: Conducted 67 semi-structured interviews with founders, investors, policymakers, and ESOs.  
 - **Data Sources**: Combined primary data (surveys + interviews) with secondary data (funding reports, policy docs).  
-- **Analysis**: Used **Excel, Python (pandas, NumPy), and Tableau** to generate 80+ charts and thematic insights across 8 domains.  
+- **Analysis**: Used **EDA", and Tableau, Flourish** to generate 80+ charts and thematic insights across 8 domains.  
 
 ---
 
