@@ -82,10 +82,13 @@ The startup ecosystem is expanding but faces challenges in funding access, polic
 
 ---
 
-## 📣 Dissemination  
+ ## 📣 Dissemination  
 
-- **Launch Event (Dec 2024, Karachi – In-Person)**: A large national event attended by founders, investors, ESOs, and policymakers. Findings presented and discussed publicly.  
+- **Launch Event (Dec 2024, Karachi – In-Person)**: A large national event attended by founders, investors, ESOs, and policymakers. Findings were presented, discussed, and covered widely in ecosystem channels.  
+  👉 [**Watch Full Launch Event**](https://www.linkedin.com/posts/invest2innovate_relive-the-highlights-of-the-pser-2024-launch-activity-7278745856122535936-zpkM)
+
 - **Focus Groups (2024)**: Conducted with founders and investors during the research phase.  
+
 - **Public Access**: Report shared openly as part of i2i’s knowledge products and widely used internationally.  
 
 ![PSER Event](images/pser_event.png)  
