@@ -9,7 +9,7 @@ Documentation and research outputs for the Startup Ecosystem Report (PSER) 2024,
 
 ---
 
-## 🧠 Abstract  
+## Abstract  
 
 The Startup Ecosystem Report (PSER) 2024 was developed to provide evidence-based insights into the entrepreneurial landscape. The project combined **survey data (140+ respondents)**, **in-depth interviews (67+ participants)**, and secondary research to assess the state of startups, investors, and entrepreneurial support organizations (ESOs).  
 
@@ -17,7 +17,7 @@ This report is published **every two years** and is considered a **flagship rese
 
 ---
 
-## 🚨 Research Problem  
+## Research Problem  
 
 The startup ecosystem is expanding but faces challenges in funding access, policy coordination, and ecosystem support. Reliable data sources are limited, leaving policymakers and investors with little evidence-based guidance.  
 
@@ -25,7 +25,7 @@ The startup ecosystem is expanding but faces challenges in funding access, polic
 
 ---
 
-## 🎯 Objectives  
+## Objectives  
 
 - Conduct a **national survey** with 140+ entrepreneurs.  
 - Organize and schedule **67 semi-structured interviews** with founders, investors, and ESOs.  
@@ -35,7 +35,7 @@ The startup ecosystem is expanding but faces challenges in funding access, polic
 
 ---
 
-## 🔬 Methodology  
+## Methodology  
 
 - **Surveys**: Designed and distributed digitally; collected 140+ complete responses.  
 - **Interviews**: Conducted 67 semi-structured interviews with founders, investors, policymakers, and ESOs.  
@@ -44,7 +44,7 @@ The startup ecosystem is expanding but faces challenges in funding access, polic
 
 ---
 
-## 👩‍💻 Role & Contributions  
+## Role & Contributions  
 
 - **Survey Management**: Designed and distributed surveys with 140+ respondents.  
 - **Interviews**: Scheduled and coordinated 67+ semi-structured interviews across stakeholder groups.  
@@ -59,7 +59,7 @@ The startup ecosystem is expanding but faces challenges in funding access, polic
 
 ---
 
-## 🧭 Timeline Snapshot  
+## Timeline Snapshot  
 
 | **Phase** | **Description** |  
 | --- | --- |  
@@ -70,7 +70,7 @@ The startup ecosystem is expanding but faces challenges in funding access, polic
 
 ---
 
-## 📊 Findings  
+## Findings  
 
 - Survey responses: **140+ entrepreneurs** across sectors.  
 - Interviews: **67 stakeholders** (founders, investors, ESOs, policymakers).  
@@ -82,7 +82,7 @@ The startup ecosystem is expanding but faces challenges in funding access, polic
 
 ---
 
- ## 📣 Dissemination  
+ ## Dissemination  
 
 - **Launch Event (Dec 2024, Karachi – In-Person)**: A large national event attended by founders, investors, ESOs, and policymakers. Findings were presented, discussed, and covered widely in ecosystem channels.  
   👉 [**Watch Full Launch Event**](https://www.linkedin.com/posts/invest2innovate_relive-the-highlights-of-the-pser-2024-launch-activity-7278745856122535936-zpkM)
@@ -99,7 +99,7 @@ The startup ecosystem is expanding but faces challenges in funding access, polic
 
 ---
 
-## 🛠 Tools Used  
+## Tools Used  
 
 | **Purpose** | **Tool** |  
 | --- | --- |  
@@ -110,20 +110,20 @@ The startup ecosystem is expanding but faces challenges in funding access, polic
 
 ---
 
-## 📎 Additional Snapshots  
+## Additional Snapshots  
 
 ![Report Cover](images/report_cover.png)  
 *PSER 2024 Cover Page*  
 
 ---
 
-## 🔗 Full Report  
+## Full Report  
 
 👉 [Download PSER 2024 (PDF)](PSER-2024-Report.pdf)  
 
 ---
 
-## 🙏 Acknowledgments  
+## Acknowledgments  
 
 The PSER 2024 was made possible by the time and input of **140+ survey participants and 67+ interviewees**, including entrepreneurs, investors, ESOs, and policymakers across Pakistan.  
 
@@ -131,7 +131,7 @@ We thank the individuals and organizations who contributed insights and data, wh
 
 ---
 
-## 📝 Conclusion  
+## Conclusion  
 
 The PSER 2024 illustrates how **structured surveys, interviews, and ecosystem analysis** can provide actionable insights for investors, policymakers, and founders.  
 
